@@ -1,0 +1,152 @@
+html > body {
+   /* For fixed navbar */
+   padding-top: 45px;
+}
+
+html > body * {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text-dred {
+   color: #c90927;
+}
+
+.no-padding {
+   padding: 0;
+}
+.no-margin {
+   margin: 0;
+}
+
+#nav-main {
+   height: 45px;
+   padding: 3px;
+}
+
+#nav-main > .navbar-toggler {
+   border: none;
+}
+
+#btn-post {
+   font-size: 13px;
+   background-color: #fc9807;
+   color: #fff;
+   padding: 3px 6px;
+   margin-right: 10px;
+}
+
+#ad-content {
+   margin: 0 15px 5px;
+   padding: 5px 5px 5px 0;
+}
+
+#ad-highlight {
+   font-size: 16px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+}
+
+#ad-title {
+   font-size: 16px;
+   margin: 20px 0 10px;
+   display: block;
+}
+
+#ad-price {
+   position:relative;
+   top: 6px;
+   background: none;
+   border: none;
+}
+
+#ad-save {
+   border-radius: 20px;
+   border: 1px solid #c90927;
+   padding: 3px 12px;
+   font-size: 14px;
+   float: right;
+}
+
+#ad-timestamp {
+   position:relative;
+   top: 6px;
+   color: #999;
+   font-size: 12px;
+}
+
+#owner-info {
+   padding-top: 10px;
+   border-top: 1px solid #E5E5E5;
+   border-bottom: 1px solid #E5E5E5;
+   padding-bottom: 20px;
+}
+
+#owner-info > .card {
+   border: none;
+}
+
+#owner-avatar {
+   margin-top: 5px;
+   width: 45px !important;
+   height: 45px !important;
+   font-size: 10px;
+   border-radius: 50%;
+}
+
+#owner-shop-view {
+   border-radius: 20px;
+   border: 1px solid #FE9900;
+   color: #FE9900;
+   font-size: 12px;
+   float: right;
+}
+
+#owner-detail {
+   padding-bottom: 10px;
+   padding-top: 10px;
+   padding-left: 10px;
+}
+
+#owner-detail * {
+   font-weight: bold;
+}
+
+#owner-detail__name {
+   margin-bottom: 3px;
+   font-size: 15px;
+}
+
+#owner-detail__active > span {
+   display: inline-block;
+   transform: scale(1.4);
+   /* font-size: 20px; */
+   color: #999;
+}
+#owner-detail__active > small {
+   color: #999;
+   font-size: 12px;
+}
+
+#owner-block {
+   color: #999;
+   font-weight: bold;
+   font-size: 12px;
+}
+
+#owner-block :nth-of-type(2) {
+   border-right: 2px solid #E5E5E5;
+   border-left: 2px solid #E5E5E5;
+}
+
+#ad-description {
+   margin-top: 10px;
+   color: #333;
+   font-weight: bold;
+   font-size: 13px;
+}
+
+#ad-tel {
+   text-decoration: underline;
+   cursor: pointer;
+   color: rgb(51, 101, 156);
+}
