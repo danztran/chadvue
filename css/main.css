@@ -28,6 +28,10 @@ html > body * {
    border-left: 1px solid rgb(150,150,150);
 }
 
+.bg-main {
+   background-color: #ffba00 !important;
+}
+
 #nav-main {
    height: 45px;
    padding: 3px;

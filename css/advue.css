@@ -4,14 +4,14 @@
 }
 
 #ad-highlight {
-   font-size: 16px;
+   font-size: 1em;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-weight: bold;
 }
 
 #ad-title {
-   font-size: 16px;
-   margin: 20px 0 10px;
+   font-size: 1em;
+   margin: 10px 0 10px;
    display: block;
 }
 
@@ -26,7 +26,7 @@
    border-radius: 20px;
    border: 1px solid #c90927;
    padding: 3px 12px;
-   font-size: 14px;
+   font-size: 0.9em;
    float: right;
 }
 
@@ -34,7 +34,7 @@
    position:relative;
    top: 6px;
    color: #999;
-   font-size: 12px;
+   font-size: 0.8em;
 }
 
 #owner-info {
@@ -52,15 +52,14 @@
    margin-top: 5px;
    width: 45px !important;
    height: 45px !important;
-   font-size: 10px;
    border-radius: 50%;
 }
 
 #owner-shop-view {
    border-radius: 20px;
-   border: 1px solid #FE9900;
-   color: #FE9900;
-   font-size: 12px;
+   border: 1px solid #ffba00;
+   color: #ffba00;
+   font-size: 0.8em;
    float: right;
 }
 
@@ -76,7 +75,7 @@
 
 #owner-detail__name {
    margin-bottom: 3px;
-   font-size: 15px;
+   font-size: 0.95em;
 }
 
 #owner-detail__active > span {
@@ -87,13 +86,13 @@
 }
 #owner-detail__active > small {
    color: #999;
-   font-size: 12px;
+   font-size: 0.8em;
 }
 
 #owner-block {
    color: #999;
    font-weight: bold;
-   font-size: 12px;
+   font-size: 0.8em;
 }
 
 #owner-block :nth-of-type(2) {
@@ -105,7 +104,7 @@
    margin-top: 10px;
    color: #333;
    font-weight: bold;
-   font-size: 13px;
+   font-size: 0.85em;
 }
 
 #ad-tel {

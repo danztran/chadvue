@@ -18,11 +18,11 @@
 #search-input {
    border: none;
    box-shadow: none;
-   font-size: 1em;
+   font-size: 0.95em;
 }
 
 #search-input::placeholder {
-   font-size: 1em;
+   font-size: 0.95em;
 }
 
 /*    CATEGORY =================
@@ -156,7 +156,7 @@
 }
 
 .ad-itemx__image-player.active {
-   background-color: rgba(246, 210, 7, 0.8);
+   background-color: rgba(255, 187, 0, 0.8);
 }
 
 .ad-itemx__image img {
@@ -175,7 +175,7 @@
    -webkit-box-orient: vertical;
    overflow: hidden;
    text-overflow: ellipsis;
-   font-size: 0.9em;
+   font-size: 0.85em;
 }
 
 .ad-itemx__detail-bottom {
@@ -185,7 +185,7 @@
 }
 
 .ad-itemx__detail__price {
-   font-size: 0.9em;
+   font-size: 0.85em;
 }
 
 .ad-itemx__detail__tilo {
