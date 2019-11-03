@@ -4,13 +4,13 @@
 }
 
 #ad-highlight {
-   font-size: 1em;
+   font-size: 1rem;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
    font-weight: bold;
 }
 
 #ad-title {
-   font-size: 1em;
+   font-size: 1rem;
    margin: 10px 0 10px;
    display: block;
 }
@@ -26,7 +26,7 @@
    border-radius: 20px;
    border: 1px solid #c90927;
    padding: 3px 12px;
-   font-size: 0.9em;
+   font-size: 0.8rem;
    float: right;
 }
 
@@ -34,7 +34,7 @@
    position:relative;
    top: 6px;
    color: #999;
-   font-size: 0.8em;
+   font-size: 0.75rem;
 }
 
 #owner-info {
@@ -59,7 +59,7 @@
    border-radius: 20px;
    border: 1px solid #ffba00;
    color: #ffba00;
-   font-size: 0.8em;
+   font-size: 0.75rem;
    float: right;
 }
 
@@ -75,24 +75,23 @@
 
 #owner-detail__name {
    margin-bottom: 3px;
-   font-size: 0.95em;
+   font-size: 0.95rem;
 }
 
 #owner-detail__active > span {
    display: inline-block;
    transform: scale(1.4);
-   /* font-size: 20px; */
    color: #999;
 }
 #owner-detail__active > small {
    color: #999;
-   font-size: 0.8em;
+   font-size: 0.7rem;
 }
 
 #owner-block {
    color: #999;
    font-weight: bold;
-   font-size: 0.8em;
+   font-size: 0.75rem;
 }
 
 #owner-block :nth-of-type(2) {
@@ -104,7 +103,7 @@
    margin-top: 10px;
    color: #333;
    font-weight: bold;
-   font-size: 0.85em;
+   font-size: 0.85rem;
 }
 
 #ad-tel {

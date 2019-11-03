@@ -1,11 +1,13 @@
+
+html > body * {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 html > body {
    /* For fixed navbar */
    padding-top: 45px;
 }
 
-html > body * {
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 
 .text-dred {
    color: #c90927;
